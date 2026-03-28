@@ -1,5 +1,10 @@
 # luceedebug
 
+This project has been forked and is now maintained by Lucee
+
+- https://github.com/lucee/extension-debugger
+- https://docs.lucee.org/recipes/step-debugger.html
+
 luceedebug is a step debugger for Lucee.
 
 ![misc. features of a debug session indicating that luceedebug is a step debugger for Lucee.](assets/whatisit.png)
